@@ -5,7 +5,7 @@ This is the unique official github of Analytix Audit, please check our github on
 
 #### Analytix provides following services 🎯 :
 
-• Smart Contract Free Auditing                    
+• Smart Contract Free Check on Telegram Group                    
 • Smart Contract Premium Auditing                
 • KYC
 
